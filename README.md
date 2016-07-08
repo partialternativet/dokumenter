@@ -1,3 +1,3 @@
 # Dokumenter
 
-Her finner du Alternativets dokumenter.
+Her finner du viktige offentlige dokumenter for Alternativet.
