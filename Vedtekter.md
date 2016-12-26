@@ -15,12 +15,12 @@ Partiets formål er å utvikle og gjennomføre politikk med FNs bærekraftsmål,
 Det er videre partiets formål å øke antallet borgere som engasjerer seg i samfunnet og deltar ved valg. Partiets politiske standpunkt skal avgjøres kontinuerlig gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
 
 *Våre kjerneverdier er:*
-Mot
-Raushet
-Åpenhet
-Ydmykhet
-Humor
-Empati
+1. Mot
+2. Raushet
+3. Åpenhet
+4. Ydmykhet
+5. Humor
+6. Empati
 
 **§ 3 Medlemsskap**
 
