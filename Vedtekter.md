@@ -15,6 +15,7 @@ Partiets formål er å utvikle og gjennomføre politikk med FNs bærekraftsmål,
 Det er videre partiets formål å øke antallet borgere som engasjerer seg i samfunnet og deltar ved valg. Partiets politiske standpunkt skal avgjøres kontinuerlig gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
 
 *Våre kjerneverdier er:*
+
 1. Mot
 2. Raushet
 3. Åpenhet
@@ -46,12 +47,12 @@ Beslutninger i landsmøtet treffes med alminnelig flertall. All stemmegiving ska
 
 Allmøtet skal årlig behandle følgende saker mellom 1. januar og 31. mars i denne rekkefølgen:
 
-Behandle partiets årsmelding
-Vedta regnskap i revidert stand
-Vedta budsjett
-Velge revisor
-Velge hovedstyre
-Behandle vedtektsendringer
+1. Behandle partiets årsmelding
+2. Vedta regnskap i revidert stand
+3. Vedta budsjett
+4. Velge revisor
+5. Velge hovedstyre
+6. Behandle vedtektsendringer
 
 Hovedstyret kan etter behov ta opp årlige landsmøtesaker til behandling hele året.
 
