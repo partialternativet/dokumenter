@@ -29,9 +29,11 @@ Partiets formål er å:
 
 Partiets politiske standpunkt skal avgjøres kontinuerlig gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
 
-**§ 5 Medlemsskap**
+**§ 5 Medlemskap**
 
-Som medlem regnes alle innmeldte fysiske personer som deler og støtter opp om partiets kjerneverdier. Medlemskap regnes fra det tidspunkt man har meldt seg inn og opprettet en profil på partiets nettbaserte plattform. Medlemsrettigheter oppnås samtidig.
+Medlemskap tegnes gjennom nettsidene eller ved å sende skriftlig melding til partiet.
+Alle fysiske personer som identifiserer seg med partiets formål og kjerneverdier kan tegne medlemskap.
+
 Medlemmer må årlig bekrefte sitt medlemskap ved å betale en kontingent av valgfri størrelse eller ved å gi beskjed til partiet om at medlemskapet ønskes videreført.
 
 Medlemmer opptas i det landsdekkende partiet og organiseres i lokallag og fylkeslag.
