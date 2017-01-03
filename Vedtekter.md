@@ -3,6 +3,7 @@
 Vedtekter
 ---------
 *Fastsatt ved stiftingen 14.-20. desember 2015*
+
 *Endret av landsmøtet 31. mars 2017*
 
 **§1 Navn**
