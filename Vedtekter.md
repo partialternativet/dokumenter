@@ -41,7 +41,7 @@ Rettigheter i kraft av medlemskap eller tillitsverv kan ikke overdras til andre.
 
 **§ 6 Organisasjon**
 
-Alternativets formelle organer er landsmøtet, hovedstyret, fylkeslag, lokallag.
+Alternativets formelle organer er landsmøtet, hovedstyret, politisk råd, fylkeslag og lokallag.
 
 **§ 7 Landsmøtet**
 
@@ -70,31 +70,37 @@ Det er bare medlemmer som var innmeldt før 1. januar som har stemmerett i de å
 
 **§ 9 Hovedstyret**
 
-Hovedstyret er partiets gjennomførende myndighet og har ansvar for å iverksette landsmøtets vedtak, føre partiets politiske og økonomiske regnskap, utarbeide partiets årsmelding og representere partiet utad.
+Hovedstyret er partiets gjennomførende myndighet og har ansvar for å iverksette landsmøtets organisatoriske vedtak, føre  regnskap, utarbeide årsmelding og å representere partiet utad i saker som omhandler organisasjonen.
 
 Hovedstyret er beslutningsdyktig når minimum 2/3 av hovedstyret er til stede enten ved fysisk møte eller gjennom partiets nettbaserte plattform. Beslutninger treffes ved alminnelig flertall.
 
 Hovedstyret skal ha to ledere av forskjellig kjønn som velges av landsmøtet. Hovedstyremedlemmer og -ledere velges for to år og kan bare sitte sammenhengende i inntil tre perioder.
 
-**§ 10 Tegning og prokura**
+**§ 10 Politisk råd**
+
+Politisk råd er partiets myndighet for utvikling og utøving av politikk.
+
+Politisk råd velges av landsmøtet.
+
+**§ 11 Tegning og prokura**
 
 Partiet tegnes av en av hovedstyrets ledere og et hovedstyremedlem sammen. Hovedstyret kan meddele prokura.
 
-**§ 11 Eksklusjon**
+**§ 12 Eksklusjon**
 
 Et medlem kan ekskluderes dersom et enstemmig hovedstyre stemmer for. Beslutningen om eksklusjon skal sendes til vedkommende medlem og med opplysning om at eksklusjonen har øyeblikkelig virkning. Dette kan skje med elektronisk post.
 
-**§ 12 Vedtektsendringer**
+**§ 13 Vedtektsendringer**
 
 Forslag til vedtektsendringer må være fremmet innen 1. februar. Vedtektsendringer besluttes av landsmøtet med 2/3 flertall og trer i kraft straks alle forslag om vedtektsendringer er behandlet.
 
-**§ 13 Fylkes- og lokallag**
+**§ 14 Fylkes- og lokallag**
 
 Medlemmene i fylker og kommuner som stiller liste for Alternativet til valg kan opprette fylkeslag og lokallag med selvstendig beslutningsmyndighet i lokalpolitiske saker. Lokallag og fylkeslag skal bruke partiets standardiserte vedtekter som vedtas av landsmøtet. Skriftlig melding om etablering av lag må sendes hovedstyret. Under Oslo fylkeslag kan det etableres bydelslag med samme rettigheter som lokallag.
 
 Laget må vise en bredde i befolkningen, kjønn og etnisitet.
 
-**§ 14 Oppløsning**
+**§ 15 Oppløsning**
 
 Forslag om oppløsning av Alternativet kan bare behandles dersom et enstemmig hovedstyre eller minst 3/4 av partiets medlemmer krever det. Oppløsning av partiet kan bare vedtas som årlig allmøtesak med 3/4 flertall.
 
