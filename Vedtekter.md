@@ -25,8 +25,7 @@ Partiets formål er å:
 5. Humor
 6. Empati
 
-
-** §4 Politikkutvikling**
+**§4 Politikkutvikling**
 
 Partiets politiske standpunkt skal avgjøres kontinuerlig gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
 
