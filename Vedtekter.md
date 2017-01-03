@@ -89,7 +89,7 @@ Partiet tegnes av en av hovedstyrets ledere og et hovedstyremedlem sammen. Hoved
 
 **§ 12 Eksklusjon**
 
-Et medlem kan ekskluderes dersom et enstemmig hovedstyre stemmer for. Beslutningen om eksklusjon skal sendes til vedkommende medlem og med opplysning om at eksklusjonen har øyeblikkelig virkning. Dette kan skje med elektronisk post.
+Hovedstyret kan ekskludere medlemmer ved enstemmig vedtak.
 
 **§ 13 Vedtektsendringer**
 
