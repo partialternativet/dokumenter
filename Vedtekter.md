@@ -103,6 +103,6 @@ Laget må vise en bredde i befolkningen, kjønn og etnisitet.
 
 **§ 15 Oppløsning**
 
-Forslag om oppløsning av Alternativet kan bare behandles dersom et enstemmig hovedstyre eller minst 3/4 av partiets medlemmer krever det. Oppløsning av partiet kan bare vedtas som årlig allmøtesak med 3/4 flertall.
+Forslag om oppløsning av Alternativet kan bare behandles dersom 2/3 av hovedstyret eller 5 % av partiets medlemmer krever det. Oppløsning av partiet kan vedtas som årlig allmøtesak med 2/3 flertall.
 
-Eventuelle gjenstående midler etter at lov- og vedtektsfestet informasjonsplikt er fullbyrdet, skal ved oppløsning av Alternativet tilfalle et formål i overensstemmelse med partiets formål, som bestemt av det siste landsmøtet.
+Eventuelle gjenstående midler etter at lov- og vedtektsfestet informasjonsplikt er fullbyrdet, skal ved oppløsning tilfalle organisasjoner i overensstemmelse med partiets formål i henhold til landsmøtevedtak.
