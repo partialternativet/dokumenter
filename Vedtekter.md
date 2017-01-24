@@ -54,7 +54,7 @@ Beslutninger i landsmøtet treffes med alminnelig flertall. All stemmegiving ska
 
 **§ 8 Årlige landsmøtesaker**
 
-Allmøtet skal årlig behandle følgende saker mellom 1. januar og 31. mars i denne rekkefølgen:
+Landsmøtet skal årlig behandle følgende saker mellom 1. januar og 31. mars i denne rekkefølgen:
 
 1. Behandle partiets årsmelding
 2. Vedta regnskap i revidert stand
@@ -67,7 +67,7 @@ Hovedstyret kan etter behov ta opp årlige landsmøtesaker til behandling hele �
 
 Stemmefristen for årlige landsmøtesaker skal være minst 7 dager.
 
-Det er bare medlemmer som var innmeldt før 1. januar som har stemmerett i de årlige allmøtesakene.
+Det er bare medlemmer som var innmeldt før 1. januar som har stemmerett i de årlige landsmøtesakene.
 
 **§ 9 Hovedstyret**
 
@@ -103,6 +103,6 @@ Laget må vise en bredde i befolkningen, kjønn og etnisitet.
 
 **§ 15 Oppløsning**
 
-Forslag om oppløsning av Alternativet kan bare behandles dersom 2/3 av hovedstyret eller 5 % av partiets medlemmer krever det. Oppløsning av partiet kan vedtas som årlig allmøtesak med 2/3 flertall.
+Forslag om oppløsning av Alternativet kan bare behandles dersom 2/3 av hovedstyret eller 5 % av partiets medlemmer krever det. Oppløsning av partiet kan vedtas som årlig landsmøtesak med 2/3 flertall.
 
 Eventuelle gjenstående midler etter at lov- og vedtektsfestet informasjonsplikt er fullbyrdet, skal ved oppløsning tilfalle organisasjoner i overensstemmelse med partiets formål i henhold til landsmøtevedtak.
