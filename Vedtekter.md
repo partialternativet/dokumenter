@@ -25,6 +25,7 @@ Partiets formål er å:
 4. Ydmykhet
 5. Humor
 6. Empati
+7. Nysgjerrighet
 
 **§4 Politikkutvikling**
 
