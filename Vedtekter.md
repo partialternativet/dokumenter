@@ -6,16 +6,18 @@ Vedtekter
 
 *Endret av landsmøtet 31. mars 2017*
 
+*Endret av landsmøtet 31. mars 2021*
+
 **§1 Navn**
 
-Partiets navn er Alternativet.
+Organisasjonens navn er Alternativet.
 
 **§2 Formål**
 
-Partiets formål er å:
+Alternativet er en medlemsorganisasjon med formål om å:
 
-1. Utvikle og gjennomføre politikk med partiets kjerneverdier, FNs bærekraftsmål og menneskerettighetene som utgangspunkt.
-2. Øke samfunnsengasjementet og valgdeltakelsen.
+1. Utvikle politikk med organisasjonens kjerneverdier, FNs bærekraftsmål og menneskerettighetene som utgangspunkt.
+2. Øke samfunnsengasjementet, valgdeltakelsen og deltakelsen i politiske prosesser.
 
 **§3 Kjerneverdier**
 
@@ -29,16 +31,16 @@ Partiets formål er å:
 
 **§4 Politikkutvikling**
 
-Partiets politiske standpunkt skal avgjøres kontinuerlig gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
+Organisasjonens standpunkt skal avgjøres gjennom transparente og breddedemokratiske prosesser der alle medlemmer gis mulighet til å delta. Kjerneverdiene skal ligge til grunn når politiske standpunkt utformes, debatteres og vedtas.
 
 **§ 5 Medlemskap**
 
-Medlemskap tegnes gjennom nettsidene eller ved å sende skriftlig melding til partiet.
-Alle fysiske personer som identifiserer seg med partiets formål og kjerneverdier kan tegne medlemskap.
+Medlemskap tegnes gjennom nettsidene eller ved å sende skriftlig melding til organisasjonen.
+Alle fysiske personer som identifiserer seg med organisasjonens formål og kjerneverdier kan tegne medlemskap.
 
-Medlemmer må årlig bekrefte sitt medlemskap ved å betale en kontingent av valgfri størrelse eller ved å gi beskjed til partiet om at medlemskapet ønskes videreført.
+Medlemmer må årlig bekrefte sitt medlemskap ved å betale en kontingent av valgfri størrelse eller ved å gi beskjed til organisasjonen om at medlemskapet ønskes videreført.
 
-Medlemmer opptas i det landsdekkende partiet og organiseres i lokallag og fylkeslag.
+Medlemmer opptas i den landsdekkende organisasjonen og organiseres i lokallag og fylkeslag.
 Rettigheter i kraft av medlemskap eller tillitsverv kan ikke overdras til andre.
 
 **§ 6 Organisasjon**
@@ -51,13 +53,13 @@ Landsmøtet åpnes 1. januar og avsluttes 31. desember hvert år og behandler in
 
 Alle medlemmer har forslagsrett, talerett og stemmerett i landsmøtet.
 
-Beslutninger i landsmøtet treffes med alminnelig flertall. All stemmegiving skal skje gjennom partiets nettbaserte plattform.
+Beslutninger i landsmøtet treffes med alminnelig flertall. All stemmegiving skal skje gjennom organisasjonens nettbaserte plattform.
 
 **§ 8 Årlige landsmøtesaker**
 
 Landsmøtet skal årlig behandle følgende saker mellom 1. januar og 31. mars i denne rekkefølgen:
 
-1. Behandle partiets årsmelding
+1. Behandle organisasjonens årsmelding
 2. Vedta regnskap i revidert stand
 3. Vedta budsjett
 4. Velge revisor
@@ -72,21 +74,21 @@ Det er bare medlemmer som var innmeldt før 1. januar som har stemmerett i de å
 
 **§ 9 Hovedstyret**
 
-Hovedstyret er partiets gjennomførende myndighet og har ansvar for å iverksette landsmøtets organisatoriske vedtak, føre  regnskap, utarbeide årsmelding og å representere partiet utad i saker som omhandler organisasjonen.
+Hovedstyret er organisasjonens øverste administrative organ og har ansvar for å iverksette landsmøtets organisatoriske vedtak, føre regnskap og å utarbeide årsmelding.
 
-Hovedstyret er beslutningsdyktig når minimum 2/3 av hovedstyret er til stede enten ved fysisk møte eller gjennom partiets nettbaserte plattform. Beslutninger treffes ved alminnelig flertall.
+Hovedstyret er beslutningsdyktig når minimum 2/3 av hovedstyret er til stede enten ved fysisk møte eller gjennom organisasjonens nettbaserte plattform. Beslutninger treffes ved alminnelig flertall.
 
-Hovedstyret skal ha to ledere av forskjellig kjønn som velges av landsmøtet. Hovedstyremedlemmer og -ledere velges for to år og kan bare sitte sammenhengende i inntil tre perioder.
+Hovedstyret skal bestå av leder, nestleder og inntil fem styremedlemmer.
 
 **§ 10 Politisk råd**
 
-Politisk råd er partiets myndighet for utvikling og utøving av politikk.
+Politisk råd er organisasjonens organ for politikkutvikling.
 
 Politisk råd velges av landsmøtet.
 
-**§ 11 Tegning og prokura**
+**§ 11 Signatur og prokura**
 
-Partiet tegnes av en av hovedstyrets ledere og et hovedstyremedlem sammen. Hovedstyret kan meddele prokura.
+Hovedstyreleder har signaturrett på vegne av organisasjonen. Landsstyret kan gi signaturrett, og hovedstyret kan gi prokura.
 
 **§ 12 Eksklusjon**
 
@@ -98,12 +100,12 @@ Forslag til vedtektsendringer må være fremmet innen 1. februar. Vedtektsendrin
 
 **§ 14 Fylkes- og lokallag**
 
-Medlemmene i fylker og kommuner som stiller liste for Alternativet til valg kan opprette fylkeslag og lokallag med selvstendig beslutningsmyndighet i lokalpolitiske saker. Lokallag og fylkeslag skal bruke partiets standardiserte vedtekter som vedtas av landsmøtet. Skriftlig melding om etablering av lag må sendes hovedstyret. Under Oslo fylkeslag kan det etableres bydelslag med samme rettigheter som lokallag.
+Skriftlig melding om etablering av lag må sendes hovedstyret.
 
-Laget må vise en bredde i befolkningen, kjønn og etnisitet.
+Laget må bestå av minst sju medlemmer og vise en bredde som gjenspeiler befolkningen.
 
 **§ 15 Oppløsning**
 
-Forslag om oppløsning av Alternativet kan bare behandles dersom 2/3 av hovedstyret eller 5 % av partiets medlemmer krever det. Oppløsning av partiet kan vedtas som årlig landsmøtesak med 2/3 flertall.
+Forslag om oppløsning av Alternativet kan bare behandles dersom 2/3 av hovedstyret eller 5 % av organisasjonens medlemmer krever det. Oppløsning av organisasjonen kan vedtas som årlig landsmøtesak med 2/3 flertall.
 
-Eventuelle gjenstående midler etter at lov- og vedtektsfestet informasjonsplikt er fullbyrdet, skal ved oppløsning tilfalle organisasjoner i overensstemmelse med partiets formål i henhold til landsmøtevedtak.
+Eventuelle gjenstående midler etter at lov- og vedtektsfestet informasjonsplikt er fullbyrdet, skal ved oppløsning tilfalle organisasjoner i overensstemmelse med organisasjonens formål i henhold til landsmøtevedtak.
